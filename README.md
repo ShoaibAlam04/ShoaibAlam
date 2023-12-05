@@ -4,12 +4,15 @@
 #  About Me
 
 🌐 Exploring the realms of Artificial Intelligence and Machine Learning.
+
 📊 Transforming raw data into meaningful insights as a Data Scientist.
+
 💻 Continuous learner, coding enthusiast, and open source advocate.
+
 
 #  Skills & Expertise
 
-🤖 Machine Learning: Expertise in building and deploying ML models.
+🤖 Machine Learning: Expertise in building and deploying ML models. <br>
 📊 Data Science: Analyzing, visualizing, and extracting insights from data.
 🐍 Programming: Proficient in Python for data manipulation and model development.
 🧠 Deep Learning: Passionate about neural networks and their applications.
