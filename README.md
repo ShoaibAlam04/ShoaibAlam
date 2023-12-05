@@ -20,10 +20,7 @@
 🐍 Python for general-purpose programming.
 👨‍💻 Projects
 
-🏢 [Project Name 1]: Brief description and impact.
-🌐 [Project Name 2]: Overview and significance.
-📈 [Project Name 3]: Key insights and outcomes.
-📚 Education
+# 📚 Education
 
 🎓 Teerthanker Mahaveer University: B.Tech in Electronics and communication Engineering.
 📆 Graduation Year: 2022.
